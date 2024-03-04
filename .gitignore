@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/env/.vs
+/env/Scripts
+/env/Lib/site-packages
+/env/templates
